@@ -20,7 +20,7 @@ graph TD
     style A fill:#f1f1f1,stroke:#333
     style F fill:#d4edda,stroke:#155724,stroke-width:2px
 ```
-
+```mermaid
 mindmap
   root((Initiation))
     Goals
@@ -40,7 +40,7 @@ mindmap
       External
     Resources
       Budget
-
+```
 ```mermaid
 graph LR
     CBA[<b>Cost-Benefit Analysis</b>] --> Ben[<b>Benefits / Gains</b>]
@@ -71,6 +71,7 @@ graph TD
 ```
 
       Personnel
+
 
 
 
