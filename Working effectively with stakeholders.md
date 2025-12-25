@@ -168,10 +168,10 @@ graph TD
 
 ```mermaid
 graph LR
-    Q1[Manage Closely<br/>(High Influence / High Interest)]
-    Q2[Meet Their Needs<br/>(High Influence / Low Interest)]
-    Q3[Show Consideration<br/>(Low Influence / High Interest)]
-    Q4[Monitor<br/>(Low Influence / Low Interest)]
+    Q1[Manage Closely(High Influence / High Interest)]
+    Q2[Meet Their Needs(High Influence / Low Interest)]
+    Q3[Show Consideration(Low Influence / High Interest)]
+    Q4[Monitor(Low Influence / Low Interest)]
 ```
 
 Quadrant	Strategy
@@ -265,5 +265,6 @@ graph TD
 - Insufficient skills or budget
 
 - Uncontrolled scope changes
+
 
 
