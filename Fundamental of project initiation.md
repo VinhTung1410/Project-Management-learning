@@ -19,6 +19,7 @@ graph TD
 
     style A fill:#f1f1f1,stroke:#333
     style F fill:#d4edda,stroke:#155724,stroke-width:2px
+```
 
 mindmap
   root((Initiation))
@@ -40,6 +41,7 @@ mindmap
     Resources
       Budget
 
+```mermaid
 graph LR
     CBA[<b>Cost-Benefit Analysis</b>] --> Ben[<b>Benefits / Gains</b>]
     CBA --> Cos[<b>Costs / Investment</b>]
@@ -53,7 +55,9 @@ graph LR
     Ben --> B2[Satisfaction / Brand Value]
     Cos --> C2[Morale / Reputation Risks]
     end
+```
 
+```mermaid
 graph TD
     Data[Collect G: Gains & C: Costs] --> Calc[Apply ROI Formula]
     Calc --> Threshold{ROI > 10%?}
@@ -67,5 +71,6 @@ graph TD
 ```
 
       Personnel
+
 
 
