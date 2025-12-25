@@ -64,6 +64,8 @@ graph TD
     direction LR
     Example["G: $10,000<br/>C: $6,300<br/>Result: 58.7%"]
     end
+```
 
       Personnel
+
 
