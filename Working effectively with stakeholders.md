@@ -165,6 +165,7 @@ graph TD
 ```
 
 ### The Power Grid (4 Quadrants)
+
 ```mermaid
 graph LR
     Q1[Manage Closely<br/>(High Influence / High Interest)]
@@ -264,4 +265,5 @@ graph TD
 - Insufficient skills or budget
 
 - Uncontrolled scope changes
+
 
