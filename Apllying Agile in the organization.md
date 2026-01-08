@@ -91,13 +91,13 @@ Use the Six Sources of Influence: These factors correlate with successful change
 mindmap
   root((The 6 Sources of Influence))
     Motivation
-      Personal: Internal motivation [cite: 97]
-      Social: Peer encouragement [cite: 102]
-      Structural: Rewards/Incentives [cite: 106]
+      Personal: Internal motivation 
+      Social: Peer encouragement 
+      Structural: Rewards/Incentives 
     Ability
-      Personal: Skills/Knowledge [cite: 99]
-      Social: Network resources [cite: 104]
-      Structural: Environmental support [cite: 108]
+      Personal: Skills/Knowledge 
+      Social: Network resources 
+      Structural: Environmental support 
 ```
 ## 5. Leadership Styles: Coaching vs. Managing
 An Agile Project Manager must know when to manage and when to coach.
