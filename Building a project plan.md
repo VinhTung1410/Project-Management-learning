@@ -4,8 +4,8 @@
 A project plan is a living artifact that acts as a roadmap for the team. While the project schedule is at the center, a comprehensive plan connects several other critical components.
 
 * **Scope and Goals:** Initially captured in the project charter, these details remind the team of objectives and prevent scope creep.
-* **Work Breakdown Structure (WBS):**  A hierarchical tool that breaks work into manageable pieces[cite: 272, 273]. It clarifies task owners, descriptions, and due dates.
-* **Budget:** This must be managed and monitored throughout the lifecycle[cite: 279]. Regular check-ins are required if the budget is managed by an external department].
+* **Work Breakdown Structure (WBS):**  A hierarchical tool that breaks work into manageable pieces. It clarifies task owners, descriptions, and due dates.
+* **Budget:** This must be managed and monitored throughout the lifecycle. Regular check-ins are required if the budget is managed by an external department].
 * **Management Plans:** These include sub-plans for change management, risk management, and communication.
 
 ---
@@ -15,12 +15,12 @@ One of the root causes of project failure is flawed time estimation.
 
 * **The Planning Fallacy:** This is the tendency to underestimate the time, costs, and risks required to complete a task due to **optimism bias**.
 * **Optimism Bias:** The belief that one is less likely to experience negative events (e.g., believing you can walk the dog between meetings without considering delays).
-* **The Solution:** Project managers must be "optimistically realistic"[cite: 336]. This involves pushing for best outcomes while planning for buffers and risks.
+* **The Solution:** Project managers must be "optimistically realistic". This involves pushing for best outcomes while planning for buffers and risks.
 
 ---
 
 ## 3. The Critical Path Method (CPM)
-The critical path is the list of milestones and mandatory tasks required to complete the project on schedule[cite: 352]. It identifies which tasks, if delayed, will negatively impact the final project deadline.
+The critical path is the list of milestones and mandatory tasks required to complete the project on schedule. It identifies which tasks, if delayed, will negatively impact the final project deadline.
 
 ### Steps to Create a Critical Path 
 1.  **Capture all tasks:** Focus on "need to do" essentials rather than "nice to do" items.
@@ -75,7 +75,6 @@ Owner: Who is responsible for the task.
 Kanban boards are visual tools used to manage workflows, highly suitable for Agile.
 Structure of a Kanban Board
 Columns: Represent progress, typically moving from "To Do" $\rightarrow$ "In Progress" $\rightarrow$ "Done".
-Cards: Represent specific tasks8.
 
 | Front of Card | Back of Card |
 | :--- | :--- | 
