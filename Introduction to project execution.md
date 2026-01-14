@@ -145,12 +145,11 @@ Tight deadlines
 
 Scope creep visibility
 ```mermaid
-xychart
-    title Sprint Burndown
-    x-axis Days
-    y-axis Tasks Remaining
-    line
-        10 8 6 5 3 1 0
+xychart-beta
+    title "Sprint Burndown"
+    x-axis ["Day 1", "Day 2", "Day 3", "Day 4", "Day 5", "Day 6", "Day 7"]
+    y-axis "Tasks Remaining" 0 --> 12
+    line [10, 8, 6, 5, 3, 1, 0]
 ```
 
 ### 🧭 Choosing the Right Tracking Method
